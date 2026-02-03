@@ -1,22 +1,4 @@
-[
-  {
-    "mac": "08-00-27-2A-A3-DB",
-    "activa": true,
-    "cliente": "Cliente 1"
-  },
-  {
-    "mac": "0A-00-27-00-00-0B",
-    "activa": true,
-    "cliente": "Cliente 2"
-  },
-  {
-    "mac": "00-FF-22-70-96-13",
-    "activa": true,
-    "cliente": "Cliente 3"
-  },
-  {
-    "mac": "74-56-3C-2F-10-87",
-    "activa": true,
-    "cliente": "Cliente 4"
-  }
-]
+08-00-27-2A-A3-DB
+0A-00-27-00-00-0B
+00-FF-22-70-96-13
+74-56-3C-2F-10-87
